@@ -4,11 +4,36 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <!-- Primary SEO -->
   <title>Home - Stride Coaching & Consulting</title>
   <meta name="description"
     content="Stride Coaching & Consulting helps leaders, professionals, and business owners master communication, elevate leadership, and build thriving, owner-independent businesses.">
   <meta name="keywords"
-    content="leadership coaching, business consulting, professional development, executive coach, business advisor, Michigan, New York">
+    content="leadership coaching, business consulting, professional development, executive coach, business advisor, Michigan, New York, Trisha Mitchner, Stride Coaching and Consulting">
+  <link rel="canonical" href="https://www.stridecoachingandconsulting.com/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.stridecoachingandconsulting.com/">
+  <meta property="og:title" content="Stride Coaching & Consulting | Leadership & Business Coaching">
+  <meta property="og:description"
+    content="Leadership coaching, business consulting, and auditing services with Trisha Mitchner. Serving professionals and businesses in Michigan, New York, and beyond.">
+  <meta property="og:image" content="https://www.stridecoachingandconsulting.com/assets/img/og-image.jpg">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://www.stridecoachingandconsulting.com/">
+  <meta name="twitter:title" content="Stride Coaching & Consulting | Leadership & Business Coaching">
+  <meta name="twitter:description"
+    content="Leadership coaching, business consulting, and auditing services with Trisha Mitchner.">
+  <meta name="twitter:image" content="https://www.stridecoachingandconsulting.com/assets/img/og-image.jpg">
+
+  <!-- Local SEO -->
+  <meta name="geo.region" content="US-MI">
+  <meta name="geo.placename" content="Michigan">
+  <meta name="geo.position" content="42.7325;-84.5555">
+  <meta name="ICBM" content="42.7325, -84.5555">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -30,6 +55,32 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- Local Business Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Stride Coaching & Consulting",
+    "image": "https://www.stridecoachingandconsulting.com/assets/img/og-image.jpg",
+    "url": "https://www.stridecoachingandconsulting.com",
+    "telephone": "+1-555-123-4567",
+    "email": "info@stridecoachingandconsulting.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "123 Main St",
+      "addressLocality": "Lansing",
+      "addressRegion": "MI",
+      "postalCode": "48933",
+      "addressCountry": "US"
+    },
+    "priceRange": "$$",
+    "sameAs": [
+      "https://www.linkedin.com/in/trishamitchner",
+      "https://www.facebook.com/stridecoachingandconsulting"
+    ]
+  }
+  </script>
 </head>
 
 <body class="index-page">
@@ -38,10 +89,16 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
+      <!-- Logo Image -->
       <a href="index.html" class="logo d-flex align-items-center me-auto">
-        <h1 class="sitename">Stride Coaching & Consulting</h1>
+        <img src="assets/img/stride-logo.png" alt="Stride Coaching & Consulting" class="img-fluid"
+          style="max-height: 50px;">
       </a>
 
+      <!-- SEO H1 (visually hidden) -->
+      <h1 class="visually-hidden">Stride Coaching & Consulting</h1>
+
+      <!-- Navigation -->
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.html" class="active">Home</a></li>
@@ -62,15 +119,20 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="hero section dark-background">
       <!-- Replace hero-bg.jpg with a professional photo or geometric/nature image -->
-      <img src="assets/img/hero-bg.jpg" alt="Stride Coaching & Consulting" data-aos="fade-in">
+      <img src="assets/img/hero-bg.jpg" alt="Stride Coaching & Consulting Hero Background" data-aos="fade-in">
 
       <div class="container">
-        <h2 data-aos="fade-up" data-aos-delay="100">Master Communication.<br>Elevate Leadership.<br>Grow Your Business.
+        <h2 data-aos="fade-up" data-aos-delay="100">
+          Master Communication.<br>
+          Elevate Leadership.<br>
+          Grow Your Business.
         </h2>
-        <p data-aos="fade-up" data-aos-delay="200">Helping leaders, professionals, and business owners achieve clarity,
-          confidence, and measurable results through coaching, consulting, and strategic audits.</p>
-        <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
-          <a href="contact.html" class="btn-get-started me-3">Book Your Free Intro Call</a>
+        <p data-aos="fade-up" data-aos-delay="200">
+          Helping leaders, professionals, and business owners achieve clarity,
+          confidence, and measurable results through coaching, consulting, and strategic audits.
+        </p>
+        <div class="d-flex flex-column flex-md-row mt-4" data-aos="fade-up" data-aos-delay="300">
+          <a href="contact.html" class="btn-get-started me-md-3 mb-2 mb-md-0">Book Your Free Intro Call</a>
           <a href="leadership-assessment.pdf" class="btn-get-started">Download Leadership Self-Assessment</a>
         </div>
       </div>
@@ -247,8 +309,9 @@
     </div>
     <div class="container copyright text-center mt-4">
       <p>© <span>Copyright</span> <strong class="px-1 sitename">Stride Coaching & Consulting</strong> <span>All Rights
-          Reserved</span></p>
-      <div class="credits">Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a></div>
+          Reserved.</span></p>
+      <div class="credits">Designed & Develped By: <a href="https://redsurgetechnology.com/" target="_blank">Red Surge
+          Technology</a></a></div>
     </div>
   </footer>
 

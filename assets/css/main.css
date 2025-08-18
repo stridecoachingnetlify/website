@@ -894,7 +894,7 @@ section,
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, #060606, transparent 60%);
+  background: color-mix(in srgb, #060606, transparent 35%);
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -1880,11 +1880,4 @@ section,
 
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
-}
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
 }
