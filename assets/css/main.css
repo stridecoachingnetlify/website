@@ -13,8 +13,8 @@
 /* Fonts */
 :root {
   --default-font: "Open Sans", Arial, sans-serif;
-  --heading-font: "Merriweather", serif;
-  --nav-font: "Montserrat", sans-serif;
+  --heading-font: "Georgia", serif;
+  --nav-font: "Open Sans", Arial, sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
