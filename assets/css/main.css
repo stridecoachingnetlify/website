@@ -774,6 +774,7 @@ h6 {
 .page-title .heading {
   padding: 80px 0;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  background: url('/assets/img/heading_wallpaper.jpg');
 }
 
 .page-title .heading h1 {
