@@ -52,6 +52,12 @@
   --contrast-color: #ffffff;
 }
 
+.orange-background {
+  --background-color: #FF6B35;
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+}
+
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
@@ -247,8 +253,18 @@ h6 {
   color: var(--accent-color);
 }
 
-.header .btn-getstarted,
-.header .btn-getstarted:focus {
+.btn-getstarted.white {
+  background: white;
+  color: #1B263B;
+}
+
+.btn-getstarted.white:hover {
+  background: lightgray;
+  color: #1B263B;
+}
+
+.btn-getstarted,
+.btn-getstarted:focus {
   color: var(--contrast-color);
   background: var(--accent-color);
   font-size: 14px;
@@ -258,8 +274,8 @@ h6 {
   transition: 0.3s;
 }
 
-.header .btn-getstarted:hover,
-.header .btn-getstarted:focus:hover {
+.btn-getstarted:hover,
+.btn-getstarted:focus:hover {
   color: var(--contrast-color);
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
 }
@@ -269,7 +285,7 @@ h6 {
     order: 1;
   }
 
-  .header .btn-getstarted {
+  .btn-getstarted {
     order: 2;
     margin: 0 15px 0 0;
     padding: 6px 15px;
@@ -845,7 +861,7 @@ section,
   font-weight: 500;
   padding: 0;
   line-height: 1px;
-  margin: 0;
+  margin: 18px 0;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
@@ -1882,4 +1898,8 @@ section,
 
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
+}
+
+#success-stories .case-study {
+  text-align: center;
 }
