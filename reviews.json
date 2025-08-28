@@ -1,0 +1,778 @@
+{
+  "reviews": [
+    {
+      "reviewer": {
+        "displayName": "Melissa K"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-05-16T15:56:15.011945Z",
+      "updateTime": "2025-05-16T15:56:15.011945Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VNYm50dERILTlfTVB3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jess Panagia"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby moved some boxes and furniture for us from our storage unit to our new house. He and his crew were friendly, professional, punctual and the price was right.",
+      "createTime": "2025-05-13T17:10:18.232426Z",
+      "updateTime": "2025-05-13T17:10:18.232426Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VQUEoyTW54NjQ3MjR3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Maria L. Orrico"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-05-13T17:04:02.494428Z",
+      "updateTime": "2025-05-13T17:04:02.494428Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VPYnkxZUhKbWZ5YUJREAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jessica Francis"
+      },
+      "starRating": "FIVE",
+      "comment": "Hired Bobby for a removal during a move. Him \u0026 his crew were extremely professional and efficient. Cannot recommend enough \u0026 will definitely hire his company when needed again in the future",
+      "createTime": "2025-05-10T15:25:43.796093Z",
+      "updateTime": "2025-05-10T15:25:43.796093Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VPSGE5WUdsMGVuNjZ3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Alisa Talberg"
+      },
+      "starRating": "FIVE",
+      "comment": "5 Stars\nI can’t say enough good things about working with Bobby!  He’s not just a landscaper—he’s a craftsman who does it all. From designing beautiful outdoor spaces to building custom features like fences and garden structures, his work is top-notch in every way!\nI use him and recommend him to all my clients for his junk Removal Service as well.\n\nIf you’re looking for someone who’s reliable, creative, hardworking, and just a great person to have around, I can’t recommend him highly enough.",
+      "createTime": "2025-05-04T16:21:07.651322Z",
+      "updateTime": "2025-05-04T16:21:07.651322Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZX3ZEcVV3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "McDonald Family"
+      },
+      "starRating": "FIVE",
+      "comment": "My family has used Bobby’s services a few times now. He is always very prompt in getting back to me, schedules the work quickly, and does a great job at a reasonable price!",
+      "createTime": "2025-05-02T22:23:12.722738Z",
+      "updateTime": "2025-05-02T22:23:12.722738Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZNHRiNzVBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Diane Jeffrey"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-05-01T18:52:38.344547Z",
+      "updateTime": "2025-05-01T18:52:38.344547Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZMUxXS3ZRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Greg Coreschi"
+      },
+      "starRating": "FIVE",
+      "comment": "As others have already said, Bobby runs a local business that is easy to support. Stress-free, reliable, and extremely fair pricing. Will absolutely use Bobby and his team again in the future.",
+      "createTime": "2025-05-01T16:43:38.319960Z",
+      "updateTime": "2025-05-01T16:44:19.362763Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZbEtteGhRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Loren Scheininger"
+      },
+      "starRating": "FIVE",
+      "comment": "same day service, fair price ✔️✔️",
+      "createTime": "2025-04-30T22:13:27.718979Z",
+      "updateTime": "2025-04-30T22:13:27.718979Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZNk9xSTR3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Robby Fitz"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby answers quickly, gives a great price, and does a great job. Highly recommend for any job.",
+      "createTime": "2025-04-30T12:57:18.337795Z",
+      "updateTime": "2025-04-30T12:57:18.337795Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZc0lQQkpnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Liz Aprile"
+      },
+      "starRating": "FIVE",
+      "comment": "We hired bobby to come clear out some tree\u0027s and take down an old shed. Within one day the shed was down and the trees were out. He and his workers did such amazing work. Highly recommend his company.",
+      "createTime": "2025-04-30T00:42:23.247901Z",
+      "updateTime": "2025-04-30T00:42:23.247901Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNzdtMzdnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Ashley Quirk"
+      },
+      "starRating": "FIVE",
+      "comment": "I had an old wooden swing set rotting away in my backyard. I called a few people, but none worked out for various reasons. I found Bobby and he gave me a quote and some dates, and within a few days the swing set was dismantled and out of my yard! He was quick, efficient, and clean! He got all the pieces, big and small, and hauled them off! I definitely recommend him!",
+      "createTime": "2025-04-28T22:12:59.716349Z",
+      "updateTime": "2025-04-28T22:12:59.716349Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURveTV6UkpBEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Dena Marchese"
+      },
+      "starRating": "FIVE",
+      "comment": "Excellent service.\nHighly recommend! 🤩",
+      "createTime": "2025-04-28T13:36:33.467236Z",
+      "updateTime": "2025-04-28T13:36:33.467236Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURvazZmVW53RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Amy Quinzer"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobbi was working across the street was approached the last minute great guy wonderful service took everything away. Great price. No, come onThanks Whatever Good Bobby",
+      "createTime": "2025-04-25T21:47:32.457626Z",
+      "updateTime": "2025-04-25T21:47:32.457626Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURva1luSk53EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "raymond paolantonio"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby and crew showed up on time, worked quickly, and were out in no time.  Final price was what he originally quoted me.   highly recommend using Bobby.",
+      "createTime": "2025-04-24T18:17:02.907854Z",
+      "updateTime": "2025-04-24T18:17:02.907854Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOXBMYThRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jennifer Baker"
+      },
+      "starRating": "FIVE",
+      "comment": "Quick and reliable! Removed my old shed in a short amount of time. Highly recommend and reasonable for the $$. Good guy and plan to have him back for other jobs.",
+      "createTime": "2025-04-22T13:26:15.152104Z",
+      "updateTime": "2025-04-22T13:26:15.152104Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURvektiTXJBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Bridget Seber"
+      },
+      "starRating": "FIVE",
+      "comment": "Reached out to Bobby on a Sunday morning and he was at our house the following morning. His communication was excellent and price was very fair. Highly recommended. Will definitely refer Bobby to friends and family. Stress free, quick, easy process.",
+      "createTime": "2025-04-21T15:06:52.902241Z",
+      "updateTime": "2025-04-21T15:06:52.902241Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURveUtmUVZ3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Victoria Wilson"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby came highly recommended to me from a neighbor who raved about him…. She was 100% right. He was quick, efficient, reasonable, great communicating, and just an all-around professional in his work not to mention, a nice guy!  I would recommend him to anybody.",
+      "createTime": "2025-04-19T03:05:30.634661Z",
+      "updateTime": "2025-04-19T03:05:30.634661Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcmFqU0Z3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Danny Nasti"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-04-15T00:10:34.993846Z",
+      "updateTime": "2025-04-15T00:10:34.993846Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvMk1XcVNBEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Kim Keator"
+      },
+      "starRating": "FIVE",
+      "comment": "Perfect job from start to finish!",
+      "createTime": "2025-04-14T16:00:57.296057Z",
+      "updateTime": "2025-04-14T16:00:57.296057Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvaU1IYXF3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "John Donahue"
+      },
+      "starRating": "FIVE",
+      "comment": "We’ve been using Bobby and his crew for 4yrs now. They are all very nice hard working and thorough. His prices are reasonable. They are on time and get the job finished.",
+      "createTime": "2025-04-12T12:16:57.026020Z",
+      "updateTime": "2025-04-12T12:16:57.026020Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJX1ppRkhREAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Linda Merces"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby Built It has done several projects for me already and I am a completely satisfied customer. He knows what he’s doing, he is professional, reliable and experienced and has great prices! Highly recommended!",
+      "createTime": "2025-04-10T19:41:56.867831Z",
+      "updateTime": "2025-04-10T19:45:37.461250Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMGFlMG5nRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "wendy fisher"
+      },
+      "starRating": "FIVE",
+      "comment": "I have known and used Bobby for years. He is the nicest most reliable guy and very good at all things he does. Cleaning yard, lawn services , junk removal. I highly recommend him for it all. Gonna call him now for my bi yearly yard clean up. 😊",
+      "createTime": "2025-04-10T15:50:00.689752Z",
+      "updateTime": "2025-04-10T15:50:00.689752Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNFlXaGFnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Robert Schilare"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is a hard working honest guy with very fair prices, he is very reliable, and a great contractor to work with overall.",
+      "createTime": "2025-04-09T13:48:08.931362Z",
+      "updateTime": "2025-04-09T13:48:08.931362Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMXZEYXRRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "John Kearns"
+      },
+      "starRating": "FIVE",
+      "comment": "Trustworthy and reliable … if they say they will be there they are … and at a good price …",
+      "createTime": "2025-04-09T03:31:00.949291Z",
+      "updateTime": "2025-04-09T03:31:00.949291Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdXVTZ3ZBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Alicia Depeppo"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby broke down and removed a shed for me! He was awesome ! Highly recommend",
+      "createTime": "2025-04-09T02:10:52.161652Z",
+      "updateTime": "2025-04-09T02:10:52.161652Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMnFhLWdnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "george scandalis"
+      },
+      "starRating": "FIVE",
+      "comment": "Professional, on-time, priced fairly with a great attitude.\nWhen I have things to move, I\u0027m only calling Bobby.",
+      "createTime": "2025-04-09T01:34:10.372717Z",
+      "updateTime": "2025-04-09T01:34:10.372717Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMm9EczNRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "zsuzsi Simmel"
+      },
+      "starRating": "FIVE",
+      "comment": "I recently hired Bobby from Bobby Build It to help with removing a large amount of garbage and debris from my house, and I couldn’t be happier with the experience. From the very beginning, his communication was excellent—he was responsive, clear about timing and pricing, and made the whole process super easy to understand.\n\nHe showed up right on time with his roll-up dumpster, and within no time had everything loaded up and cleared out. What really stood out was how professional and efficient he was—he handled everything quickly but with care, making sure nothing was left behind. I didn’t have to lift a finger.\n\nOn top of that, Bobby was friendly, respectful, and genuinely seemed to care about doing a great job. It’s not always easy finding service providers who are reliable and communicative, but Bobby delivered on all fronts.\n\nIf you’re looking for someone dependable to help with junk removal or cleanup, I highly recommend Bobby Build It. Excellent service from start to finish!\nHighly recommend!!",
+      "createTime": "2025-04-09T01:00:12.505347Z",
+      "updateTime": "2025-04-09T01:00:52.189686Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbXRtS3RnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "julianne marchese"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is nothing but amazing. He is 100% dedicated to giving his customers THE BEST experience possible. He starts and finishes the job with a smile, stays professional the entire job and leaves you wondering why you hadn’t called him sooner.",
+      "createTime": "2025-04-08T23:52:11.972782Z",
+      "updateTime": "2025-04-08T23:52:11.972782Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnRlVGRnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Shaun Finn"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby demolished an old shed that was an eye sore on my property and hauled it off within hours of arriving. Fast, courteous, and the price was right!",
+      "createTime": "2025-04-08T20:51:18.557866Z",
+      "updateTime": "2025-04-08T23:25:16.566643Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXNlalhBEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "moira stodden"
+      },
+      "starRating": "FIVE",
+      "comment": "I called on VERY short notice while trying to empty the last VERY heavy furniture from our storage facility in Red Bank.  I can’t say enough about Bobby.  He came, did what he promised and was done in less than 48 hours from when I initially contacted him.  Not only is he reliable, he’s also very nice.  He’s a great resource!",
+      "createTime": "2025-04-08T23:16:04.121186Z",
+      "updateTime": "2025-04-08T23:16:04.121186Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnA3eEJREAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Laura Towle"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby came over to give me a quote on a project and actually did the project right then! Courteous, professional.  Would definitely recommend him",
+      "createTime": "2025-04-08T23:05:59.359356Z",
+      "updateTime": "2025-04-08T23:05:59.359356Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNnRyNG53RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Rob Panasuk"
+      },
+      "starRating": "FIVE",
+      "comment": "The most reliable business / service I’ve used. Easy to plan and communicate with, gets the job done quickly and smoothly.",
+      "createTime": "2025-04-08T22:02:09.905673Z",
+      "updateTime": "2025-04-08T22:02:09.905673Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcXJYdE13EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Robert Panasuk"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-04-08T22:00:31.046257Z",
+      "updateTime": "2025-04-08T22:00:31.046257Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcXBXVUhnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Gary Ambessi"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is the best...fast same day service and best of all very fair rates.  Highly recommended.",
+      "createTime": "2025-04-08T19:46:08.774836Z",
+      "updateTime": "2025-04-08T19:46:08.774836Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXVMU1F3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jenna Holliday"
+      },
+      "starRating": "FIVE",
+      "comment": "Best of the best! Efficient, trustworthy and hard working! We have called Bobby for every job needed and always will.",
+      "createTime": "2025-04-08T19:37:33.263556Z",
+      "updateTime": "2025-04-08T19:37:33.263556Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeXF6X2d3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Mark Burton"
+      },
+      "starRating": "FIVE",
+      "comment": "Working in storage there are times when we need professional help with cleaning out a unit.  BBI will be the first company that I call moving forward.",
+      "createTime": "2025-04-08T19:11:25.315622Z",
+      "updateTime": "2025-04-08T19:11:25.315622Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaXYteFZBEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Joanie Gordon"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby and his crew were so good to me. I ran into an unfortunate circumstance including being left with tons of debris from a previous worker. Bobbie and his team came to the rescue. Totally professional, courteous, efficient and most of all kind! I’ll always be grateful",
+      "createTime": "2025-04-08T19:09:29.763560Z",
+      "updateTime": "2025-04-08T19:09:29.763560Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaXBfXzNRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Paola Sandoval"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby Built It is top-notch! Bobby is professional, reliable, and delivers high-quality. The entire process was smooth, and the results exceeded expectations. Highly recommended!!",
+      "createTime": "2025-04-08T17:36:50.583597Z",
+      "updateTime": "2025-04-08T17:36:50.583597Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOHB1WG53RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Lisa Stevens"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby and his team were so efficient.",
+      "createTime": "2025-04-08T17:16:15.662587Z",
+      "updateTime": "2025-04-08T17:16:15.662587Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOHBtX1Z3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Tiffany Ramnarine"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is beyond amazing! He’s always quick, communicative, thorough, and beyond fair on pricing. I have never used anyone else. Thank you so much Bobby!",
+      "createTime": "2025-04-08T15:39:54.250785Z",
+      "updateTime": "2025-04-08T15:39:54.250785Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc3FtS1VREAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Nicci Balestrieri"
+      },
+      "starRating": "FIVE",
+      "comment": "Recently moved into a new home and needed a bunch of junk removed from our shed. Items removed included pieces of stone/concrete, a few doors, an old sink and some random trash. Bobby and his team were quick, efficient, communicated very well and charged a very fair price for everything. Will definitely be in contact for future projects.",
+      "createTime": "2025-04-08T15:31:46.182150Z",
+      "updateTime": "2025-04-08T15:31:46.182150Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3Y3RzBRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Susan Evatt"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is professional, friendly and very responsive.  His team arrives on time and provides excellent service at reasonable rates.",
+      "createTime": "2025-04-08T15:28:43.622406Z",
+      "updateTime": "2025-04-08T15:28:43.622406Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3U2d2hnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Erick H"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is quick and easy to deal with. Extremely reasonable pricing and a nice guy to boot!",
+      "createTime": "2025-04-08T15:12:43.390138Z",
+      "updateTime": "2025-04-08T15:12:43.390138Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3FLdXl3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "John Sabia"
+      },
+      "starRating": "FIVE",
+      "comment": "The best pricing the best team!!\nPERIOD! #SupportLocal",
+      "createTime": "2025-04-08T15:12:20.379853Z",
+      "updateTime": "2025-04-08T15:12:20.379853Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3NLVl9RRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jessica Shaw"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby is extremely professional, helpful, and has great rates",
+      "createTime": "2025-04-08T15:10:11.033699Z",
+      "updateTime": "2025-04-08T15:10:11.033699Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3R5UmpBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Calderone School of Music"
+      },
+      "starRating": "FIVE",
+      "comment": "Reasonable \u0026 does a great job. Just what is promised, prompt and conscientious.",
+      "createTime": "2025-04-08T15:02:33.160605Z",
+      "updateTime": "2025-04-08T15:02:33.160605Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc29TREp3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Susan Kasper"
+      },
+      "starRating": "FIVE",
+      "comment": "I used Bobby’s services twice in a 3 month period.  First my Aunt moved from Independent Living to Assisted living.  He did a fabulous job.  Cleaned out everything to perfection.  Unfortunately, she passed away 3 months later and Bobby came back again, doing a fabulous job.  I was so stressed thinking I’d have to do this until I found out about Bobby.  Such a pleasure to deal with  and reasonable prices.  I would definitely recommend him and would use him again.",
+      "createTime": "2025-04-08T14:50:52.062970Z",
+      "updateTime": "2025-04-08T14:54:57.710873Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHUtVzVnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "michael marchese"
+      },
+      "starRating": "FIVE",
+      "comment": "We had some different types of work done around the yard. Great job.\nHe called back. He was on time. He was reliable. He did ALL the work he said, and then some. Good price. I would use him again and you should to. Thanks Bobby Built it.!",
+      "createTime": "2025-04-08T14:54:04.467065Z",
+      "updateTime": "2025-04-08T14:54:04.467065Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc29Ddm9BRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Mary Duus"
+      },
+      "starRating": "FIVE",
+      "comment": "You will be very happy with Bobby’s work, cost and friendliness!",
+      "createTime": "2025-04-08T14:48:07.535616Z",
+      "updateTime": "2025-04-08T14:48:07.535616Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMHJlWlFnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Nicole Stoeber"
+      },
+      "starRating": "FIVE",
+      "comment": "Very prompt with service and flexible to work around company hours.",
+      "createTime": "2025-04-08T14:43:08.323740Z",
+      "updateTime": "2025-04-08T14:44:15.663863Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHJ2LWhRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Kelly Viterbo"
+      },
+      "starRating": "FIVE",
+      "comment": "Top notch service! Very responsive in a timely manner. Have used BBI for years - trustworthy and EXTREMELY reliable.",
+      "createTime": "2025-04-08T14:42:39.188087Z",
+      "updateTime": "2025-04-08T14:42:39.188087Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHR1TDVRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Alexa Masino"
+      },
+      "starRating": "FIVE",
+      "comment": "Have been using Bobby for many projects/debris removals. He is amazing!!",
+      "createTime": "2025-04-08T14:42:27.794558Z",
+      "updateTime": "2025-04-08T14:42:27.794558Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHR1MnJnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "karen brembos"
+      },
+      "starRating": "FIVE",
+      "comment": "Have been using this company for years. Will use no one else. They are efficient and very reliable. You will not be disappointed.",
+      "createTime": "2025-04-08T14:41:07.794868Z",
+      "updateTime": "2025-04-08T14:41:07.794868Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMHV1R0Z3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Joseph Bellavia"
+      },
+      "starRating": "FIVE",
+      "comment": "I used Bobby for trash removal. He\u0027s responsive, fair and does a great job.",
+      "createTime": "2025-04-08T14:37:57.741067Z",
+      "updateTime": "2025-04-08T14:37:57.741067Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHJPbXFRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Griffin Teeple"
+      },
+      "starRating": "FIVE",
+      "comment": "Been using Bobby for a while now for business and he is always quick, professional, and honest. I have and would continue to recommend Bobby to anyone inquiring",
+      "createTime": "2025-04-08T14:37:03.392315Z",
+      "updateTime": "2025-04-08T14:37:03.392315Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHBPanJBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "sarah stroger"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby Built It has helped make my life so much easier, so many times. Quick, professional services done at extremely reasonable prices every time. Highly recommended!",
+      "createTime": "2025-04-08T14:32:14.272464Z",
+      "updateTime": "2025-04-08T14:32:14.272464Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHQyWTFnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Joey Zuppardo"
+      },
+      "starRating": "FIVE",
+      "comment": "Most punctual person I know to complete clean up jobs or to dispose of junk. Very reasonably priced and easy to work with would give them 10 stars if it were possible!",
+      "createTime": "2025-04-08T14:29:51.887961Z",
+      "updateTime": "2025-04-08T14:29:51.887961Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMHMzUTB3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "joe cerillo"
+      },
+      "starRating": "FIVE",
+      "comment": "BBI helped us out big during our home project! Reliable, fast, and prepared the job for success. Very impressed by this remarkable company!",
+      "createTime": "2025-04-08T14:28:29.636229Z",
+      "updateTime": "2025-04-08T14:28:29.636229Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMHJYeEN3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Kerry Dalziel"
+      },
+      "starRating": "FIVE",
+      "comment": "Reliable, on time.  Clean out was amazing, he even swept up :-)",
+      "createTime": "2025-04-08T14:23:05.172299Z",
+      "updateTime": "2025-04-08T14:23:05.172299Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMHVtTk5nEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jim Hennessy"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby and his team were great!  On time and professional. Went over and above our expectations!!",
+      "createTime": "2025-04-08T14:17:53.210582Z",
+      "updateTime": "2025-04-08T14:17:53.210582Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMHY3Vkh3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Olga Pena"
+      },
+      "starRating": "FIVE",
+      "createTime": "2025-04-08T13:49:00.629428Z",
+      "updateTime": "2025-04-08T13:49:00.629428Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMG9TQk93EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Dustin Brandl"
+      },
+      "starRating": "FIVE",
+      "comment": "Whether you’re cleaning out junk or want to finally tackle that home renovation you’ve been putting off, Bobby Built It is your guy! Great service and amazing crew",
+      "createTime": "2025-04-08T12:28:29.774798Z",
+      "updateTime": "2025-04-08T12:28:29.774798Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa3ZDR2hnRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Chris Brandl"
+      },
+      "starRating": "FIVE",
+      "comment": "Great job, dependable and on time. No job is too small or too big for this guy. Thanks, Bobby-Built-It.",
+      "createTime": "2025-04-08T11:25:20.595650Z",
+      "updateTime": "2025-04-08T11:25:20.595650Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNHFqWXlBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Jessica Bucceri"
+      },
+      "starRating": "FIVE",
+      "comment": "The BEST of the BEST! Hardworking, reliable and great service! They have done so much work for me and I will always recommend them!",
+      "createTime": "2025-04-08T02:26:59.509754Z",
+      "updateTime": "2025-04-08T02:26:59.509754Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbk9qQUdnEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Nancy Costa"
+      },
+      "starRating": "FIVE",
+      "comment": "We recently hired Bobby Built It to come to our home to clear and dispose of a long overdue basement clean out.\nThe team arrived on time and was professional and courteous.\nWe will definitely be using them again and we highly recommend them for any clean out needs.",
+      "createTime": "2025-04-08T00:44:31.526802Z",
+      "updateTime": "2025-04-08T00:44:31.526802Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJN096VnlBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "David Carr"
+      },
+      "starRating": "FIVE",
+      "comment": "Great business always on time. Great people prices are excellent. Highly recommended",
+      "createTime": "2025-04-08T00:04:04.610725Z",
+      "updateTime": "2025-04-08T00:04:04.610725Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJck9lUld3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Andres Sandoval"
+      },
+      "starRating": "FIVE",
+      "comment": "Had a great experience with Bobby Built It. Scheduling was super easy, they showed up right on time, and the crew was friendly and professional. Would definitely use them again!",
+      "createTime": "2025-04-07T23:16:46.546562Z",
+      "updateTime": "2025-04-07T23:16:46.546562Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJckltQl9nRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Matthew Kolbert"
+      },
+      "starRating": "FIVE",
+      "comment": "fast and easy. This is my go to junk removal for any personal or work related jobs.",
+      "createTime": "2025-04-07T23:16:33.036549Z",
+      "updateTime": "2025-04-07T23:16:33.036549Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJckltS3JBRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Eduardo Franco"
+      },
+      "starRating": "FIVE",
+      "comment": "Excellent service, very good treatment and above all very efficient in completing the assigned tasks.",
+      "createTime": "2025-04-07T22:50:00.182788Z",
+      "updateTime": "2025-04-07T22:50:00.182788Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJckpyYVNREAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "The Wood Joint"
+      },
+      "starRating": "FIVE",
+      "comment": "Thank you for all the work you\u0027ve done for us.",
+      "createTime": "2025-04-07T22:47:44.013115Z",
+      "updateTime": "2025-04-07T22:47:44.013115Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcktxQVBBEAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Price\u0027 s"
+      },
+      "starRating": "FIVE",
+      "comment": "Fast, efficient and friendly.",
+      "createTime": "2025-04-07T20:54:11.064163Z",
+      "updateTime": "2025-04-07T20:54:11.064163Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJek82VkR3EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Dina Juliano"
+      },
+      "starRating": "FIVE",
+      "comment": "Class act, highly professional and truly cares about you and your needs. Provides many different services and always goes above and beyond. I recommend Bobby Built It to everyone I know",
+      "createTime": "2025-04-07T20:53:03.755341Z",
+      "updateTime": "2025-04-07T20:53:03.755341Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeks3YnhRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Robert Gileski"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby built it does exceptional work, and follows through completely to get the job done right. I highly recommend his services.",
+      "createTime": "2025-04-07T20:31:24.866101Z",
+      "updateTime": "2025-04-07T20:31:24.866101Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeklyeWx3RRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Roseann Brandl"
+      },
+      "starRating": "FIVE",
+      "comment": "Bobby Built It is a great local business! They do so many things to clean up and spruce up your home, yard and garden!\nThey cleaned up the base of a tree and even turned the wood into a seat for my fire pit! They also landscaped my front yard and even spread mulch around all my trees! Prices and reasonable and affordable!\nCall right away to schedule your transformation!",
+      "createTime": "2025-04-07T20:19:44.205089Z",
+      "updateTime": "2025-04-07T20:19:44.205089Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJek56R29RRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "William August"
+      },
+      "starRating": "FIVE",
+      "comment": "Top Notch, Professional in every aspect! I\u0027ve used Bobby Built it multiple times and they have always went above and beyond! Simply the best around. Highly recommend.",
+      "createTime": "2025-04-07T20:17:04.318662Z",
+      "updateTime": "2025-04-07T20:17:04.318662Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJekt5Yk13EAE"
+    },
+    {
+      "reviewer": {
+        "displayName": "Barb McAteer"
+      },
+      "starRating": "FIVE",
+      "comment": "I called Bobby Built It when we needed to empty out a one bedroom apartment and was so grateful for their professionalism \u0026 great work for a fair price.  5 Stars ++++",
+      "createTime": "2025-04-07T20:16:06.001533Z",
+      "updateTime": "2025-04-07T20:16:06.001533Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChdDSUhNMG9nS0VJQ0FnTURJek15RHZRRRAB"
+    },
+    {
+      "reviewer": {
+        "displayName": "Barbara Bucceri"
+      },
+      "starRating": "FIVE",
+      "comment": "Amazing work, reliable and a great guy too!\nUsed this company many times and have always been very satisfied.",
+      "createTime": "2025-04-07T20:06:56.654825Z",
+      "updateTime": "2025-04-07T20:06:56.654825Z",
+      "name": "accounts/102918457100643113114/locations/12784235409056586077/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeklUSkFnEAE"
+    }
+  ]
+}
