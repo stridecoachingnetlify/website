@@ -259,7 +259,7 @@
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
     #reviews-1672 {
-        padding: var(--sectionPadding);
+        padding: 2rem;
     }
 
     #reviews-1672 .cs-container {
@@ -292,7 +292,7 @@
         display: grid;
         grid-template-columns: repeat(12, 1fr);
         /* 16px - 20px */
-        gap: clamp(1rem, 2.5vw, 1.25rem);
+        gap: clamp(3rem, 2.5vw, 1.25rem);
     }
 
     #reviews-1672 .cs-item {
