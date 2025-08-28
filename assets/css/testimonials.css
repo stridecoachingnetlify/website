@@ -292,7 +292,6 @@
         display: grid;
         grid-template-columns: repeat(12, 1fr);
         /* 16px - 20px */
-        gap: clamp(3rem, 2.5vw, 1.25rem);
     }
 
     #reviews-1672 .cs-item {
@@ -314,6 +313,7 @@
         gap: clamp(1.5rem, 4vw, 3rem);
         border-radius: 0.8rem;
         box-shadow: 5px 5px 20px #6d6b6b6b;
+        margin-bottom: 3rem;
     }
 
     #reviews-1672 .cs-flex-group {
